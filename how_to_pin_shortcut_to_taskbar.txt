@@ -1,2 +1,2 @@
-Create shortcut and add "cmd.exe /C" to the fromt of the target field:
+Create shortcut and add "cmd.exe /C" to the front of the target field:
 cmd.exe /C "C:\path\to\subfolder\your-script.bat"
