@@ -14,4 +14,4 @@ def create_ico(input_image, output_path="./icon", resize=None):
 
 
 if __name__ == "__main__":
-    create_ico(r"speaker_sound.png", r"", 128)
+    create_ico(r"couch_headphones.png", r"", 128)
